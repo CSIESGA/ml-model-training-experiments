@@ -45,10 +45,9 @@ All reported results refer to specific saved experiment runs, not independently 
 ```text
 ml-model-training-experiments/
 ├── README.md
-└── notebooks/
-    ├── pokemon-transformer-sequence-modeling.ipynb
-    ├── llama2-lora-supervised-finetuning.ipynb
-    └── llama3-dpo-preference-alignment.ipynb
+├── pokemon-transformer-sequence-modeling.ipynb
+├── llama2-lora-supervised-finetuning.ipynb
+└── llama3-dpo-preference-alignment.ipynb
 ```
 
 ## Running the Experiments
